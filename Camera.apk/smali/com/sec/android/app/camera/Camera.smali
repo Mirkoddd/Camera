@@ -11267,7 +11267,7 @@
     .sparse-switch
         0x4 -> :sswitch_38
         0x17 -> :sswitch_90
-        0x18 -> :sswitch_1b3
+        0x18 -> :sswitch_90
         0x19 -> :sswitch_1b3
         0x1a -> :sswitch_38
         0x1b -> :sswitch_90
